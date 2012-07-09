@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Documents and Settings\axb0200\My Documents\GitHub\super\helloDeploy" deleteExistingFiles="False" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Profile1" publishMethod="FileSystem" replaceMatchingFiles="True" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="bin/helloService.pdb" publishTime="07/09/2012 11:48:16" />
+    <file relUrl="Service1.asmx" publishTime="07/09/2012 11:45:32" />
+    <file relUrl="Web.config" publishTime="07/09/2012 11:49:18" />
+    <file relUrl="bin/helloService.dll" publishTime="07/09/2012 11:48:16" />
+  </publishProfile>
+</publishData>
